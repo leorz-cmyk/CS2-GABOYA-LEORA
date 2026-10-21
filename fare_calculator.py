@@ -1,4 +1,4 @@
-# Travel Fare Calculator
+# Travel Fare Calculators 
 FARE_RATE = 14
 
 name = input("Enter passenger name: ")
